@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 2693cca461529934ea2d8abc22054a1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2312219372859450578
+    second: sprsheet_bricks_0
+  - first:
+      213: -6978896542060896745
+    second: sprsheet_bricks_1
+  - first:
+      213: 3214030313275530440
+    second: sprsheet_bricks_2
+  - first:
+      213: 8420659152689968639
+    second: sprsheet_bricks_3
+  - first:
+      213: -6808509792846200752
+    second: sprsheet_bricks_4
+  - first:
+      213: 561337331875368370
+    second: sprsheet_bricks_5
+  - first:
+      213: 5230894326658808857
+    second: sprsheet_bricks_6
+  - first:
+      213: -1414589617800075303
+    second: sprsheet_bricks_7
+  - first:
+      213: 6373894695385306016
+    second: sprsheet_bricks_8
+  - first:
+      213: 1439234505682334266
+    second: sprsheet_bricks_9
+  - first:
+      213: -1432341885398977682
+    second: sprsheet_bricks_10
+  - first:
+      213: -4843559293983161517
+    second: sprsheet_bricks_11
+  - first:
+      213: 6984990582390493444
+    second: sprsheet_bricks_12
+  - first:
+      213: -2732116599204077012
+    second: sprsheet_bricks_13
+  - first:
+      213: 3998727028576195113
+    second: sprsheet_bricks_14
+  - first:
+      213: 7823649772518286809
+    second: sprsheet_bricks_15
+  - first:
+      213: 7531596875355090310
+    second: sprsheet_bricks_16
+  - first:
+      213: -5199460873294582276
+    second: sprsheet_bricks_17
+  - first:
+      213: 7749895978969075760
+    second: sprsheet_bricks_18
+  - first:
+      213: -8904724415946875982
+    second: sprsheet_bricks_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprsheet_bricks_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 693
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773689eb714e1543a04aaa30a61275d
+      internalID: -2312219372859450578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 693
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157a3c6192995a645a9aea3ace6dab85
+      internalID: -6978896542060896745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 617
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0339888cb6254cb97d501e84c1c45
+      internalID: 3214030313275530440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 617
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada95ac411cb4df4ab76b94df5ab77f7
+      internalID: 8420659152689968639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 542
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58616b4f56b5604dbe175ab84ce9e43
+      internalID: -6808509792846200752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 542
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f892c1d0c803e45b8cdb0541bd191c
+      internalID: 561337331875368370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 467
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc79798e39c6214459e26a0c9809342b
+      internalID: 5230894326658808857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 467
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce8485468a9c44e83c8efe38cfe4a2
+      internalID: -1414589617800075303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 391
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71192f442157444934fa85f565143d
+      internalID: 6373894695385306016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 391
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e535c037295d1543a8d63ebd59a52b3
+      internalID: 1439234505682334266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 316
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5babedce522b446844e3c7cbbda526
+      internalID: -1432341885398977682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 316
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4a4b454b0b8649ba8746668c6ae8c
+      internalID: -4843559293983161517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6709c38717ef68941908697cdd5faf55
+      internalID: 6984990582390493444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 240
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeae9304c867ac4c8d3c3bd5c274a1d
+      internalID: -2732116599204077012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 165
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d4a81a0e13a941ac74099ccb52c2d
+      internalID: 3998727028576195113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 165
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5948ec305ebd13048986e21952ee6353
+      internalID: 7823649772518286809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06c915a436e2a4c806ef4ed497937b
+      internalID: 7531596875355090310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 90
+        width: 171
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4affde7c9cce94d9e09c365fed2345
+      internalID: -5199460873294582276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 14
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594299dac4bf4c24a9bdc1f07ad42c12
+      internalID: 7749895978969075760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprsheet_bricks_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 171
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146400575d9ff5a4a9caa3588f05154d
+      internalID: -8904724415946875982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ed21448b9cb887b4fa281442422e4846
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

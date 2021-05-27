@@ -1,0 +1,1072 @@
+fileFormatVersion: 2
+guid: 2cfe549ec399e9649ae492324736bb54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5119112042046018048
+    second: spsheet_powerups_0
+  - first:
+      213: 4365286027521382582
+    second: spsheet_powerups_1
+  - first:
+      213: 2954392089894817834
+    second: spsheet_powerups_2
+  - first:
+      213: -7684950589827695891
+    second: spsheet_powerups_3
+  - first:
+      213: -8335448232532169356
+    second: spsheet_powerups_4
+  - first:
+      213: 8973320228034972667
+    second: spsheet_powerups_5
+  - first:
+      213: 7954483599150996714
+    second: spsheet_powerups_6
+  - first:
+      213: 406569609188441410
+    second: spsheet_powerups_7
+  - first:
+      213: 6515771384372203927
+    second: spsheet_powerups_8
+  - first:
+      213: 8516914851121709102
+    second: spsheet_powerups_9
+  - first:
+      213: -1062941193661083590
+    second: spsheet_powerups_10
+  - first:
+      213: -6552029951086524729
+    second: spsheet_powerups_11
+  - first:
+      213: 6608567833072381466
+    second: spsheet_powerups_12
+  - first:
+      213: 4672946487639950468
+    second: spsheet_powerups_13
+  - first:
+      213: -2028854130878132946
+    second: spsheet_powerups_14
+  - first:
+      213: 4876705458166663266
+    second: spsheet_powerups_15
+  - first:
+      213: 8405838895451124469
+    second: spsheet_powerups_16
+  - first:
+      213: 307350933882847746
+    second: spsheet_powerups_17
+  - first:
+      213: 6655829493288099117
+    second: spsheet_powerups_18
+  - first:
+      213: 3029870259690808689
+    second: spsheet_powerups_19
+  - first:
+      213: -3832157795925402190
+    second: spsheet_powerups_20
+  - first:
+      213: -8827370755104079495
+    second: spsheet_powerups_21
+  - first:
+      213: -2565698971318709937
+    second: spsheet_powerups_22
+  - first:
+      213: -3194714084885380063
+    second: spsheet_powerups_23
+  - first:
+      213: 1982992218783583966
+    second: spsheet_powerups_24
+  - first:
+      213: 4469984723582976082
+    second: spsheet_powerups_25
+  - first:
+      213: -2458181138564783337
+    second: spsheet_powerups_26
+  - first:
+      213: -4390502595870858255
+    second: spsheet_powerups_27
+  - first:
+      213: 3148637639188225738
+    second: spsheet_powerups_28
+  - first:
+      213: 8254482711010305919
+    second: spsheet_powerups_29
+  - first:
+      213: 53952032257914015
+    second: spsheet_powerups_30
+  - first:
+      213: 5367006547897773186
+    second: spsheet_powerups_31
+  - first:
+      213: -6226223640480528555
+    second: spsheet_powerups_32
+  - first:
+      213: 2561060170755516580
+    second: spsheet_powerups_33
+  - first:
+      213: -2815220234323868596
+    second: spsheet_powerups_34
+  - first:
+      213: 9218000953615745065
+    second: spsheet_powerups_35
+  - first:
+      213: -425568573261989460
+    second: spsheet_powerups_36
+  - first:
+      213: -2931433565908014372
+    second: spsheet_powerups_37
+  - first:
+      213: -750229500547554106
+    second: spsheet_powerups_38
+  - first:
+      213: 8849671718150296173
+    second: spsheet_powerups_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spsheet_powerups_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 710
+        width: 149
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbd46b3f33f9d947b445cfd00011d1e
+      internalID: -5119112042046018048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 710
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a5d3158ba09044196e65e06b03037d
+      internalID: 4365286027521382582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 710
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44e0db9ed53a764a916948d180e9809
+      internalID: 2954392089894817834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 650
+        width: 149
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc363a4a16c5460498b2af0ddc9e2617
+      internalID: -7684950589827695891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 650
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b70de1f6670374797b5789db934dbd
+      internalID: -8335448232532169356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 650
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e62b6aac7c6342b473c0d3c350330
+      internalID: 8973320228034972667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 591
+        width: 154
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0243f83b0f8cd964fbb5e506b0cb2bc6
+      internalID: 7954483599150996714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 591
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ba34bbca97b846a0e2da37d00cb64
+      internalID: 406569609188441410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 588
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee7c1c68ceb4a4ab8938986094757b
+      internalID: 6515771384372203927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 531
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc6182aa3fcc2e41845521dd774adcc
+      internalID: 8516914851121709102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 531
+        width: 154
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3c845a9f5767b479f8a04a98f89e48
+      internalID: -1062941193661083590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 531
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbbf13ed67665418586e2623a2b9b8
+      internalID: -6552029951086524729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 471
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a59fe3507a9a1045af4f0b9bce84abe
+      internalID: 6608567833072381466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 471
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9bfe2b7b30cab4780395a1a1cd9cf1
+      internalID: 4672946487639950468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 472
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac348bad04d0840ac50d4ef021ca97
+      internalID: -2028854130878132946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 412
+        width: 154
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2dccf4aa050294fb72529c2711006a
+      internalID: 4876705458166663266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 412
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f414c0116914841ad972e497a4cc5f
+      internalID: 8405838895451124469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 412
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3683b9227112642ae19b47659abf0e
+      internalID: 307350933882847746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 353
+        width: 154
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a4d7628d7a0047a1fc0646da760ed
+      internalID: 6655829493288099117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 353
+        width: 219
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0ec46e89ee7d4798aa5900ec5bdfe
+      internalID: 3029870259690808689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 325
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688a21e647f40447a9969076fdef55e
+      internalID: -3832157795925402190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 273
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c5cb547ff5d34690f5157086edfea
+      internalID: -8827370755104079495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 273
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a52b95ccc83cc40abb92c5f90a2d5e
+      internalID: -2565698971318709937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 274
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd662064a55c4304ba684d76e5f82207
+      internalID: -3194714084885380063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 273
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f20a148a3f30c43bd504ae18e914e0
+      internalID: 1982992218783583966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 273
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fd8592e2bafb4a9a9b146fe2392fc
+      internalID: 4469984723582976082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 239
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3407c2f4d91b49b6c06408085e571
+      internalID: -2458181138564783337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1827075753322a4e8cd5aa9a34d836e
+      internalID: -4390502595870858255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 196
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5344815a1cd5fe4f9043b4e70fb6d4e
+      internalID: 3148637639188225738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 196
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae225135b3350246ba58de08b7c3613
+      internalID: 8254482711010305919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_30
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 196
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e0889532e9ec4981ad2614dc1c7ba
+      internalID: 53952032257914015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 196
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eabc0300c37754693ca98bdcac1690
+      internalID: 5367006547897773186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 146
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d9db341105df542803c5f67a1caa1c
+      internalID: -6226223640480528555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391765318841dc4cb1ebffc80c15a5e
+      internalID: 2561060170755516580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 135
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f35cf6ce770a84459bd39e9749bc532
+      internalID: -2815220234323868596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffdbda0d4b3a9e45aca6c1699cb7b81
+      internalID: 9218000953615745065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 75
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6570c654d4740469e39e41f6a17b74
+      internalID: -425568573261989460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 75
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3877e344ba0db584c8381e480fb85eb5
+      internalID: -2931433565908014372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac9e8a8da64fe43b3b0247154f760d
+      internalID: -750229500547554106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spsheet_powerups_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56eb31bf76b36e4a9674be176b9e9ba
+      internalID: 8849671718150296173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea97fc6fb26729546ab4fc6a854d1a9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
