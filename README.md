@@ -1,5 +1,12 @@
 # super-cassebriques
 
+# watibot
+
+[![Unity](https://img.shields.io/badge/Unity-000.svg?logo=unity&style=for-the-badge&logoColor=fff)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge)](https://unity.com/how-to/learning-c-sharp-unity-beginners)
+
+> A Breakout game made on Unity
+
 ![image](https://github.com/remi-martinez/super-cassebriques/assets/64494563/ffd01333-37f0-4d19-bb38-15b97f277b95)
 
 **Jeu du Casse-Briques réalisé sur Unity**  
